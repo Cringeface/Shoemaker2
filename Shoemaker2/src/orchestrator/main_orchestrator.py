@@ -1,7 +1,6 @@
 import sys
-import time
 from PyQt5.QtWidgets import QApplication
-from gui_orchestrator import CringefaceOrchestrator
+from orchestrator.gui_orchestrator import CringefaceOrchestrator
 from utils.helpers import load_and_preprocess_input
 from utils.config import INPUT_FILE_PATH
 import logging

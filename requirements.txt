@@ -3,3 +3,7 @@ openpyxl
 argparse
 pyqt5
 selenium
+webdriver-manager
+pytest
+beautifulsoup4
+lxml

@@ -1,1 +1,1 @@
-from .locator_processor import process_locator
+from cases.locator_processor import process_locator
